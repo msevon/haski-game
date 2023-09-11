@@ -1,0 +1,7 @@
+music:
+
+menu: Monplaisir - Soundtrack
+level 1: Kevin MacLeod - Pixelland
+level 2: Jeremy Blake - Powerup!
+level 3: Jimmy Fontanez - Dub Hub
+level 4: Kevin MacLeod - 8bit Dungeon Boss
