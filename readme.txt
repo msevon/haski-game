@@ -1,7 +1,5 @@
 HASKI PLATFORM GAME
 
-Miku Sevón
-
 -Simple platformer game made using PyQt5
 
 ------------------------------------------------------------
