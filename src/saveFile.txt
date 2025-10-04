@@ -1,1 +1,4 @@
 Amsterdam/38/0.5
+Siberia/25/1.5
+Turku/34/1.3
+Ulaanbaatar/44/3.0
